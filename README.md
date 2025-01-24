@@ -28,7 +28,7 @@ optional arguments:
 Make sure you have Python installed on your system. You can check your Python version by running:
 
 ```python
-python --version
+python3 --version
 ```
 
 ### Installation Steps
@@ -43,7 +43,7 @@ cd FlashArray-Create-API-Key
 Create a virtual environment (optional but recommended):
 
 ```python
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate 
 ```
 
